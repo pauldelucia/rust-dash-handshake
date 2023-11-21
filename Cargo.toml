@@ -1,6 +1,9 @@
 [package]
 name = "rust-dash-handshake"
 version = "0.1.0"
+authors = ["Paul DeLucia <pauldelucia2@gmail.com>"]
+description = "A Rust library for performing Dash network handshakes"
+license = "MIT"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
